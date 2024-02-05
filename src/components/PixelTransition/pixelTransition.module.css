@@ -1,0 +1,16 @@
+.pixelBackground {
+  display: flex;
+  height: 100%;
+  overflow: hidden;
+  gap: 2px;
+}
+.column {
+  width: 10%;
+  height: 100%;
+}
+.block {
+  height: 10%;
+  width: 100%;
+  background-color: #ff4b01;
+  margin-block: 2px;
+}
